@@ -1,0 +1,22 @@
+{
+  "name": "root-calculate",
+  "version": "1.0.3",
+  "description": "Calculate any root!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "root",
+    "square root",
+    "root of the Third Kind",
+    "root of 3rd grade",
+    "math",
+    "prime factors"
+  ],
+  "author": "Jakub Schulz",
+  "license": "ISC",
+  "dependencies": {
+    "prime-number": "^1.0.2"
+  }
+}
